@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Animage</string>
+    <string name="download">Скачать</string>
+    <string name="open_full_size">полное разрешение</string>
+    <string name="size">Размер:</string>
+    <string name="resolution">Разрешение:</string>
+    <string name="processing">Обработка...</string>
+    <string name="image">Изображение</string>
+    <string name="info">Предложения по поводу улучшения приложения можете отправлять сюда: \nshulyakyarik@gmail.com</string>
+</resources>

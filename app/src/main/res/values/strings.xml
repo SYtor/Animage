@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Animage</string>
+    <string name="download">Download</string>
+    <string name="open_full_size">Full-resolution</string>
+    <string name="size">Size:</string>
+    <string name="resolution">Resolution:</string>
+    <string name="processing">processing...</string>
+    <string name="image">Image</string>
+    <string name="info">For any offers and improvements you could write me here: \nshulyakyarik@gmail.com</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Animage</string>
+    <string name="download">Завантажити</string>
+    <string name="open_full_size">повна роздільна здатність</string>
+    <string name="size">Розмір:</string>
+    <string name="resolution">Роздільна здатність:</string>
+    <string name="processing">Обробка...</string>
+    <string name="image">Зображення</string>
+    <string name="info">Пропозиції щодо покращення додатку можете надіслати мені на цю адресу: \nshulyakyarik@gmail.com</string>
+</resources>
